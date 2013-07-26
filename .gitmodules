@@ -7,3 +7,6 @@
 [submodule "RobFletcher/hipsteroid"]
 	path = RobFletcher/hipsteroid
 	url = git@github.com:robfletcher/hipsteroid.git
+[submodule "StevePember/Fundamentals-of-Single-Page-Webapps"]
+	path = StevePember/Fundamentals-of-Single-Page-Webapps
+	url = git@github.com:spember/gr8conf2013-javascript.git

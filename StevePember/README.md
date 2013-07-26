@@ -1,0 +1,1 @@
+In addition to the .pdf above, the slides from my talk on Message Oriented Decoupled Architecture in Grails can also be found on Slideshare, [here](http://www.slideshare.net/StevePember/message-oriented-architecture-gr8conf-us-2013)
